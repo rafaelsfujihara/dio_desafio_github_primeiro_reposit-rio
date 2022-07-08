@@ -1,1 +1,7 @@
-Anotar
+Tarefas
+
+	
+1 criado conta no Git\GitHub
+2 Criado repositório local
+3 Criado repositório no GitHub
+4 Empurrado os arquivos para o repositório GitHub
