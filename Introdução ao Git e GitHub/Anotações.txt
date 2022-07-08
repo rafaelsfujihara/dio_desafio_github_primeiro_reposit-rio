@@ -5,4 +5,4 @@ Desafio:
 2 Criado repositório local
 3 Criado repositório no GitHub
 4 Empurrado os arquivos para o repositório GitHub
-5 Etregando o Desafio
+5 Entregando o Desafio
